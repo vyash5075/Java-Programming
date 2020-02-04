@@ -10,11 +10,9 @@ public static void main(String args[])
     for(int i=0;i<n;i++)
     {
         arr[i]=sc.nextInt();
+       arr2[arr[i]]=arr2[arr[i]]++;
     }
-    for(int i=0;i<n;i++)
-    {
-        arr2[arr[i]]=arr2[arr[i]]+1;
-    }
+
     System.out.println("frequency of duplicate elements are");
     for(int i=0;i<n;i++)
     {
