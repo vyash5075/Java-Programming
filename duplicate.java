@@ -21,7 +21,7 @@ public class duplicate {
         {
             if(arr2[arr[i]]>1)
             {
-                System.out.println(arr[i]);
+                System.out.print(arr[i]+" ");
                 arr2[arr[i]]=0;
             }
         }
