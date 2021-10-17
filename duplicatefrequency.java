@@ -14,6 +14,8 @@ public static void main(String args[])
     }
 
     System.out.println("frequency of duplicate elements are");
+    for(int i=0;i<10;i++)
+        System.out.println(i);
     for(int i=0;i<n;i++)
     {
         if(arr2[arr[i]]>1)
