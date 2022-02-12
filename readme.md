@@ -6,9 +6,10 @@
  
 | Sr No. | Question Name | File Name | Pattern Type |
 |-----------|-----------|---------|---------------|
-| 1.| Triangle  | [P1.java](https://github.com/vyash5075/Java-Programming/blob/Patterns/P1.java) | * <br>* *<br> * * *<br>   * * * *<br> * * * * * |
+| 1.| Right Triangle  | [P1.java](https://github.com/vyash5075/Java-Programming/blob/Patterns/P1.java) |<pre>* <br>* * <br>* * * </br>* * * * <br>* * * * * <pre>|
+| 2.| Mirrored Right Triangle  | [P2.java](https://github.com/vyash5075/Java-Programming/blob/Patterns/P2.java) | <pre>         * <br>       * *<br>     * * *<br>   * * * *<br> * * * * *|
 
----
+---  
 ## Resources
 | Sr No. |
 |--------|
