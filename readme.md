@@ -14,6 +14,8 @@
 | Sr No. |
 |--------|
 |[Javainterviewpoint](https://www.javainterviewpoint.com/star-pattern-programs-in-java/)
+|[Edureka](https://www.edureka.co/blog/30-pattern-programs-in-java/)
+|[FacePrep](https://www.faceprep.in/c/pattern-programs-in-c/)
                         
  ## Contributors ⚡
 <table>
