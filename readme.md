@@ -6,7 +6,7 @@
  
 | Sr No. | Question Name | File Name | Pattern Type |
 |-----------|-----------|---------|---------------|
-| 1.| logEndpoint  | No | * <br>* *<br> * * *<br>   * * * *<br> * * * * * |
+| 1.| Triangle  | [P1.java](https://github.com/vyash5075/Java-Programming/blob/Patterns/P1.java) | * <br>* *<br> * * *<br>   * * * *<br> * * * * * |
 
 ---
 ## Resources
