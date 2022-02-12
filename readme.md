@@ -7,6 +7,12 @@
 | Sr No. | Question Name | File Name | Pattern Type |
 |-----------|-----------|---------|---------------|
 | 1.| logEndpoint  | No | * <br>* *<br> * * *<br>   * * * *<br> * * * * * |
+
+---
+## Resources
+| Sr No. |
+|--------|
+|[Javainterviewpoint](https://www.javainterviewpoint.com/star-pattern-programs-in-java/)
                         
  ## Contributors ⚡
 <table>
@@ -14,6 +20,8 @@
     <td align="center"><a href="https://github.com/vyash5075"><img src="https://avatars.githubusercontent.com/u/44260505?v=4" width="114px;" alt=""/><br /><sub><b>Yash Verma</b></sub></a><br /><a href="https://github.com/vyash5075" title="Github"> 👨‍💻 </a></td>
   </tr>
 </table>
+
+
 
  
 ## License
