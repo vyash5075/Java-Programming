@@ -12,7 +12,7 @@
 | 4.| Reverse Right Triangle  | [P3.java](https://github.com/vyash5075/Java-Programming/blob/Patterns/P3.java) | <pre> * * * * * <br>   * * * *<br>     * * *<br>       * *<br>         *|
 | 5.| Pyramid Triangle  | [P5.java](https://github.com/vyash5075/Java-Programming/blob/Patterns/P5.java) | <pre>     *  <br>    * * <br>   * * * <br>  * * * * <br> * * * * *|
 | 6.| Reverse Pyramid Triangle  | [P6.java](https://github.com/vyash5075/Java-Programming/blob/Patterns/P6.java) | <pre> * * * * * <br>  * * * *<br>   * * *<br>    * * <br>     * |
-| 7.| Mirrored Right Triangle  | [P7.java](https://github.com/vyash5075/Java-Programming/blob/Patterns/P7.java) | <pre>         * <br>       * *<br>     * * *<br>   * * * *<br> * * * * *|
+| 7.| Diamond pattern  | [P7.java](https://github.com/vyash5075/Java-Programming/blob/Patterns/P7.java) | <pre>     * <br>    * *<br>   * * *<br>  * * * *<br> * * * * *<br>  * * * *<br>   * * *<br>    * *<br>     *|
 
 
 ---  
