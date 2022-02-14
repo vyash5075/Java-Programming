@@ -13,7 +13,23 @@
 | 5.| Pyramid Triangle  | [P5.java](https://github.com/vyash5075/Java-Programming/blob/Patterns/P5.java) | <pre>     *  <br>    * * <br>   * * * <br>  * * * * <br> * * * * *|
 | 6.| Reverse Pyramid Triangle  | [P6.java](https://github.com/vyash5075/Java-Programming/blob/Patterns/P6.java) | <pre> * * * * * <br>  * * * *<br>   * * *<br>    * * <br>     * |
 | 7.| Diamond pattern  | [P7.java](https://github.com/vyash5075/Java-Programming/blob/Patterns/P7.java) | <pre>     * <br>    * *<br>   * * *<br>  * * * *<br> * * * * *<br>  * * * *<br>   * * *<br>    * *<br>     *|
-
+| 8.| Diamond pattern  | [P8.java](https://github.com/vyash5075/Java-Programming/blob/Patterns/P8.java) | <pre>     * <br>    * *<br>   * * *<br>  * * * *<br> * * * * *<br>  * * * *<br>   * * *<br>    * *<br>     *|
+| 9.| Diamond pattern  | [P9.java](https://github.com/vyash5075/Java-Programming/blob/Patterns/P9.java) | <pre>     * <br>    * *<br>   * * *<br>  * * * *<br> * * * * *<br>  * * * *<br>   * * *<br>    * *<br>     *|
+| 10.| Diamond pattern  | [P10.java](https://github.com/vyash5075/Java-Programming/blob/Patterns/P10.java) | <pre>     * <br>    * *<br>   * * *<br>  * * * *<br> * * * * *<br>  * * * *<br>   * * *<br>    * *<br>     *|
+| 11.| Diamond pattern  | [P11.java](https://github.com/vyash5075/Java-Programming/blob/Patterns/P11.java) | <pre>     * <br>    * *<br>   * * *<br>  * * * *<br> * * * * *<br>  * * * *<br>   * * *<br>    * *<br>     *|
+| 12.| Diamond pattern  | [P12.java](https://github.com/vyash5075/Java-Programming/blob/Patterns/P12.java) | <pre>     * <br>    * *<br>   * * *<br>  * * * *<br> * * * * *<br>  * * * *<br>   * * *<br>    * *<br>     *|
+| 13.| Diamond pattern  | [P13.java](https://github.com/vyash5075/Java-Programming/blob/Patterns/P13.java) | <pre>     * <br>    * *<br>   * * *<br>  * * * *<br> * * * * *<br>  * * * *<br>   * * *<br>    * *<br>     *|
+| 14.| Diamond pattern  | [P14.java](https://github.com/vyash5075/Java-Programming/blob/Patterns/P14.java) | <pre>     * <br>    * *<br>   * * *<br>  * * * *<br> * * * * *<br>  * * * *<br>   * * *<br>    * *<br>     *|
+| 15.| Diamond pattern  | [P15.java](https://github.com/vyash5075/Java-Programming/blob/Patterns/P15.java) | <pre>     * <br>    * *<br>   * * *<br>  * * * *<br> * * * * *<br>  * * * *<br>   * * *<br>    * *<br>     *|
+| 16.| Diamond pattern  | [P16.java](https://github.com/vyash5075/Java-Programming/blob/Patterns/P16.java) | <pre>     * <br>    * *<br>   * * *<br>  * * * *<br> * * * * *<br>  * * * *<br>   * * *<br>    * *<br>     *|
+| 17.| Diamond pattern  | [P17.java](https://github.com/vyash5075/Java-Programming/blob/Patterns/P17.java) | <pre>     * <br>    * *<br>   * * *<br>  * * * *<br> * * * * *<br>  * * * *<br>   * * *<br>    * *<br>     *|
+| 18.| Diamond pattern  | [P18.java](https://github.com/vyash5075/Java-Programming/blob/Patterns/P18.java) | <pre>     * <br>    * *<br>   * * *<br>  * * * *<br> * * * * *<br>  * * * *<br>   * * *<br>    * *<br>     *|
+| 19.| Diamond pattern  | [P19.java](https://github.com/vyash5075/Java-Programming/blob/Patterns/P19.java) | <pre>     * <br>    * *<br>   * * *<br>  * * * *<br> * * * * *<br>  * * * *<br>   * * *<br>    * *<br>     *|
+| 20.| Diamond pattern  | [P20.java](https://github.com/vyash5075/Java-Programming/blob/Patterns/P20.java) | <pre>     * <br>    * *<br>   * * *<br>  * * * *<br> * * * * *<br>  * * * *<br>   * * *<br>    * *<br>     *|
+| 21.| Diamond pattern  | [P21.java](https://github.com/vyash5075/Java-Programming/blob/Patterns/P21.java) | <pre>     * <br>    * *<br>   * * *<br>  * * * *<br> * * * * *<br>  * * * *<br>   * * *<br>    * *<br>     *|
+| 22.| Diamond pattern  | [P22.java](https://github.com/vyash5075/Java-Programming/blob/Patterns/P22.java) | <pre>     * <br>    * *<br>   * * *<br>  * * * *<br> * * * * *<br>  * * * *<br>   * * *<br>    * *<br>     *|
+| 23.| Diamond pattern  | [P23.java](https://github.com/vyash5075/Java-Programming/blob/Patterns/P23.java) | <pre>     * <br>    * *<br>   * * *<br>  * * * *<br> * * * * *<br>  * * * *<br>   * * *<br>    * *<br>     *|
+| 24.| Diamond pattern  | [P24.java](https://github.com/vyash5075/Java-Programming/blob/Patterns/P24.java) | <pre>     * <br>    * *<br>   * * *<br>  * * * *<br> * * * * *<br>  * * * *<br>   * * *<br>    * *<br>     *|
 
 ---  
 ## Resources
