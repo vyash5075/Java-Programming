@@ -17,7 +17,7 @@ public class printno{
            k=k/10;
        }
        int div=(int)Math.pow(10,count-1);
-       while(n!=0){
+       while(div!=0){
            int result=n/div;
            System.out.println(result);
            n=n%div;
