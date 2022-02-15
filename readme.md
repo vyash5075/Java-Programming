@@ -14,12 +14,12 @@
 | 6.| Print digits in no.  | [Printdigits_in_no.java](https://github.com/vyash5075/Java-Programming/blob/Basic/Printdigits_in_no.java) |  |
 | 7.| Print no in reverse   | [Print_no_reverse.java](https://github.com/vyash5075/Java-Programming/blob/Basic/Print_no_reverse.java) |  |
 | 8.| reverse of No.  | [Reverse.java](https://github.com/vyash5075/Java-Programming/blob/Basic/reverse_no.java) |  |
-| 9.| Inverse of No.  | [Inverse.java](https://github.com/vyash5075/Java-Programming/blob/Basic/inverse_no.java) |  |
+| 9.| Inverse of No.  | [Inverse.java](https://github.com/vyash5075/Java-Programming/blob/Basic/inverse_no.java) | ⭐   |
+| 10.| Rotate Given No.  | [rotate_no.java](https://github.com/vyash5075/Java-Programming/blob/Basic/rotate_no.java) |⭐  |
 
 | 8.| Prime no btw given range  | [Prime_no_btw_range.java](https://github.com/vyash5075/Java-Programming/blob/Basic/Prime_no_btw_range.java) |  |
 | 8.| Prime no btw given range  | [Prime_no_btw_range.java](https://github.com/vyash5075/Java-Programming/blob/Basic/Prime_no_btw_range.java) |  |
-| 8.| Prime no btw given range  | [Prime_no_btw_range.java](https://github.com/vyash5075/Java-Programming/blob/Basic/Prime_no_btw_range.java) |  |
-| 8.| Prime no btw given range  | [Prime_no_btw_range.java](https://github.com/vyash5075/Java-Programming/blob/Basic/Prime_no_btw_range.java) |  |
+| 8.| Prime no btw given range  | [Prime_no_btw_range.java](https://github.com/vyash5075/Java-Programming/blob/Basic/Prime_no_btw_range.java) | ⭐   |
                         
  ## Contributors ⚡
 <table>
