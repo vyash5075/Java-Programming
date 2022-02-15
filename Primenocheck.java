@@ -9,7 +9,7 @@ public class primecheck{
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
         int count=0;
-        for(int i=2;i*i<n;i++){
+        for(int i=2;i*i<=n;i++){
             if(n%i==0){
                 count++;
                 break;
