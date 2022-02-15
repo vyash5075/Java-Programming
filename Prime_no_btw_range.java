@@ -12,7 +12,7 @@ public class primecheck{
          for(  int no=low;no<high;no++){
              int count=0;
              
-             for(int i=2;i*i<no;i++){
+             for(int i=2;i*i<=no;i++){
                  if(no%i==0){
                      count++;
                      break;
