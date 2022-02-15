@@ -16,10 +16,12 @@
 | 8.| reverse of No.  | [Reverse.java](https://github.com/vyash5075/Java-Programming/blob/Basic/reverse_no.java) |  |
 | 9.| Inverse of No.  | [Inverse.java](https://github.com/vyash5075/Java-Programming/blob/Basic/inverse_no.java) | ⭐   |
 | 10.| Rotate Given No.  | [rotate_no.java](https://github.com/vyash5075/Java-Programming/blob/Basic/rotate_no.java) |⭐  |
-
-| 8.| Prime no btw given range  | [Prime_no_btw_range.java](https://github.com/vyash5075/Java-Programming/blob/Basic/Prime_no_btw_range.java) |  |
-| 8.| Prime no btw given range  | [Prime_no_btw_range.java](https://github.com/vyash5075/Java-Programming/blob/Basic/Prime_no_btw_range.java) |  |
+| 11.| Gcd and LCM  | [gcd_lcm.java](https://github.com/vyash5075/Java-Programming/blob/Basic/gcd_lcm.java) |⭐   |
+| 12.| Prime Factorisation | [primefactorization.java](https://github.com/vyash5075/Java-Programming/blob/Basic/primefactorization.java) |⭐   |
+| 13.| pythagorean triplet  | [pythagoreantriplet.java](https://github.com/vyash5075/Java-Programming/blob/Basic/pythagoreantriplet.java) |    |
+| 14.| benjamin Bulbs  | [benjaminbulbs.java](https://github.com/vyash5075/Java-Programming/blob/Basic/benjaminbulbs.java) |  |
 | 8.| Prime no btw given range  | [Prime_no_btw_range.java](https://github.com/vyash5075/Java-Programming/blob/Basic/Prime_no_btw_range.java) | ⭐   |
+                        
                         
  ## Contributors ⚡
 <table>
