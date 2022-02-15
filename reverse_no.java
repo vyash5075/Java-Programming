@@ -3,7 +3,7 @@
 ##output
 987
 import java.util.*;
-public class Inverse{
+public class Reverseno{
     public static void main(String args[]){
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter the no of fibonacci no you want to print");
