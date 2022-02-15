@@ -4,9 +4,9 @@
 
 ## Questions Sequenced
  
-| Sr No. | Question Name | File Name | Pattern Type |
+| Sr No. | Question Name | File Name |   Type |
 |-----------|-----------|---------|---------------|
-| 1.| logEndpoint  | No | * <br>* *<br> * * *<br>   * * * *<br> * * * * * |
+| 1.| Empty Buffer  | [Empty Buffer.java](https://github.com/vyash5075/Java-Programming/blob/Basic/EmptyBuffer.java) |  |
                         
  ## Contributors ⚡
 <table>
