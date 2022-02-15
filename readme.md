@@ -7,6 +7,18 @@
 | Sr No. | Question Name | File Name |   Type |
 |-----------|-----------|---------|---------------|
 | 1.| Empty Buffer  | [Empty Buffer.java](https://github.com/vyash5075/Java-Programming/blob/Basic/EmptyBuffer.java) |  |
+| 2.| Prime no check  | [primenocheck.java](https://github.com/vyash5075/Java-Programming/blob/Basic/Primenocheck.java) |  |
+| 3.| Prime no btw given range  | [Prime_no_btw_range.java](https://github.com/vyash5075/Java-Programming/blob/Basic/Prime_no_btw_range.java) |  |
+| 4.| Prime Fibonacci numbers  | [Fibonaccinumbers.java](https://github.com/vyash5075/Java-Programming/blob/Basic/Fibonaccinumbers.java) |  |
+| 5.| Count Digits in no.  | [countDigits_in_no.java](https://github.com/vyash5075/Java-Programming/blob/Basic/countDigits_in_no.java) |  |
+| 6.| Print digits in no.  | [Printdigits_in_no.java](https://github.com/vyash5075/Java-Programming/blob/Basic/Printdigits_in_no.java) |  |
+
+| 8.| Prime no btw given range  | [Prime_no_btw_range.java](https://github.com/vyash5075/Java-Programming/blob/Basic/Prime_no_btw_range.java) |  |
+| 8.| Prime no btw given range  | [Prime_no_btw_range.java](https://github.com/vyash5075/Java-Programming/blob/Basic/Prime_no_btw_range.java) |  |
+| 8.| Prime no btw given range  | [Prime_no_btw_range.java](https://github.com/vyash5075/Java-Programming/blob/Basic/Prime_no_btw_range.java) |  |
+| 8.| Prime no btw given range  | [Prime_no_btw_range.java](https://github.com/vyash5075/Java-Programming/blob/Basic/Prime_no_btw_range.java) |  |
+| 8.| Prime no btw given range  | [Prime_no_btw_range.java](https://github.com/vyash5075/Java-Programming/blob/Basic/Prime_no_btw_range.java) |  |
+| 8.| Prime no btw given range  | [Prime_no_btw_range.java](https://github.com/vyash5075/Java-Programming/blob/Basic/Prime_no_btw_range.java) |  |
                         
  ## Contributors ⚡
 <table>
