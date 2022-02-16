@@ -1,7 +1,7 @@
 ##input
 49
 ##output
-4,9,1,25,36,49
+4,9,16,25,36,49
 import java.util.*;
 public class benjaminbulbs{
     public static void main(String args[]){
