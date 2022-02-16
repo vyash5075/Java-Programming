@@ -19,8 +19,7 @@ public class ABC{
            if(i==n/2+1){ System.out.print("*\t");}
            else{
                 System.out.print("\t");
-           }
-               
+           }   
             }
             
             for(int j=1;j<=st;j++){
