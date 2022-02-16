@@ -20,8 +20,7 @@
 | 12.| Prime Factorisation | [primefactorization.java](https://github.com/vyash5075/Java-Programming/blob/Basic/primefactorization.java) |⭐   |
 | 13.| pythagorean triplet  | [pythagoreantriplet.java](https://github.com/vyash5075/Java-Programming/blob/Basic/pythagoreantriplet.java) |    |
 | 14.| benjamin Bulbs  | [benjaminbulbs.java](https://github.com/vyash5075/Java-Programming/blob/Basic/benjaminbulbs.java) |  |
-| 8.| Prime no btw given range  | [Prime_no_btw_range.java](https://github.com/vyash5075/Java-Programming/blob/Basic/Prime_no_btw_range.java) | ⭐   |
-                        
+                         
                         
  ## Contributors ⚡
 <table>
