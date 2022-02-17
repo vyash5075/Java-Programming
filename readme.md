@@ -7,7 +7,12 @@
 | Sr No. | Question Name | File Name | Pattern Type |
 |-----------|-----------|---------|---------------|
 | 1.| Linear Search | [Linear search.java](https://github.com/vyash5075/Java-Programming/blob/Searching-Sortings/Basic/LinearSearch.java) |  |
-  
+ |2.|Binary Search|[BinarySearch.java](https://github.com/vyash5075/Java-Programming/blob/Searching-Sortings/Basic/BinarySearch.java)| ⭐ | 
+ |3.|Bubble Sort|[Bubblesort.java](https://github.com/vyash5075/Java-Programming/blob/Searching-Sortings/Basic/Bubblesort.java)|| 
+ |4.|Bubble Sort|[Bubblesort.java](https://github.com/vyash5075/Java-Programming/blob/Searching-Sortings/Basic/Bubblesort.java)|| 
+ |5.|Bubble Sort|[Bubblesort.java](https://github.com/vyash5075/Java-Programming/blob/Searching-Sortings/Basic/Bubblesort.java)|| 
+ |6.|Bubble Sort|[Bubblesort.java](https://github.com/vyash5075/Java-Programming/blob/Searching-Sortings/Basic/Bubblesort.java)|| 
+ |7.|Bubble Sort|[Bubblesort.java](https://github.com/vyash5075/Java-Programming/blob/Searching-Sortings/Basic/Bubblesort.java)|| 
 ## Questions Sequenced
  
 | Sr No. | Question Name | File Name | Pattern Type |
