@@ -1,13 +1,19 @@
-# [Pattern Questions🚀](https://leetcode.com/problemset/algorithms/)
+# [Searching Sorting Questions🚀](https://leetcode.com/problemset/algorithms/)
 
 [![License](https://img.shields.io/badge/license-Apache_2.0-blue.svg)](LICENSE.md) ![Language](https://img.shields.io/badge/language-Java%20%2F%20Data_Structures%2F-blue.svg) ![PRs welcome](https://img.shields.io/badge/PRs%20-welcome-brightgreen.svg) 
 
+## Algorithms Sequenced
+ 
+| Sr No. | Question Name | File Name | Pattern Type |
+|-----------|-----------|---------|---------------|
+| 1.| logEndpoint  | No | * <br>* *<br> * * *<br>   * * * *<br> * * * * * |
+  
 ## Questions Sequenced
  
 | Sr No. | Question Name | File Name | Pattern Type |
 |-----------|-----------|---------|---------------|
 | 1.| logEndpoint  | No | * <br>* *<br> * * *<br>   * * * *<br> * * * * * |
-                        
+    
  ## Contributors ⚡
 <table>
   <tr>
