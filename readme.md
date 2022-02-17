@@ -6,7 +6,7 @@
  
 | Sr No. | Question Name | File Name | Pattern Type |
 |-----------|-----------|---------|---------------|
-| 1.| logEndpoint  | No | * <br>* *<br> * * *<br>   * * * *<br> * * * * * |
+| 1.| Linear Search | [Linear search.java](https://github.com/vyash5075/Java-Programming/blob/Searching-Sortings/Basic/LinearSearch.java) |  |
   
 ## Questions Sequenced
  
