@@ -11,7 +11,7 @@ public class numbersystem{
         int n1=sc.nextInt();
         int n2=sc.nextInt();
         int base=sc.nextInt();
-        System.out.println(addition(n1,n2,base));
+        System.out.println(Subtraction(n1,n2,base));
     }
     public static int Subtraction (int n1,int n2,int base){
         int rv=0;int p=1;
