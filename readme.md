@@ -15,6 +15,7 @@
  |7.|Quick Sort|[Quicksort.java](https://github.com/vyash5075/Java-Programming/blob/Searching-Sortings/Basic/Quicksort.java)|⭐ ⭐| 
  |8.|Heap Sort|[Heapsort.java](https://github.com/vyash5075/Java-Programming/blob/Searching-Sortings/Basic/HeapSort.java)|⭐ ⭐| 
  |9.|Strings Sort|[Bubblesort.java](https://github.com/vyash5075/Java-Programming/blob/Searching-Sortings/Basic/Bubblesort.java)|| 
+ |10.|BubbleString Sort|[BubbleStringsort.java](https://github.com/vyash5075/Java-Programming/blob/Searching-Sortings/Basic/BubbleStringsort.java)|| 
 ## Questions Sequenced
  
 | Sr No. | Question Name | File Name | Pattern Type |
