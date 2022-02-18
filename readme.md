@@ -6,7 +6,7 @@
  
 | Sr No. | Question Name | File Name | Pattern Type |
 |-----------|-----------|---------|---------------|
-| 1.| logEndpoint  | No | * <br>* *<br> * * *<br>   * * * *<br> * * * * * |
+| 1.| Decimal to Any Base| [Decimal-to-anybase.java](https://github.com/vyash5075/Java-Programming/blob/NumberSystem/Decimal-to-anybase.java) |  |
                         
  ## Contributors ⚡
 <table>
