@@ -9,6 +9,7 @@ import java.util.*;
 public class HeapSort_Array {
     public void sort(int arr[])
     {
+        
         int n = arr.length;
  
         // Build heap (rearrange array)
