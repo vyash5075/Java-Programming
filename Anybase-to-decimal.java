@@ -3,6 +3,13 @@
 8
 ##Output
 634
+
+##Input
+111001
+2
+##Output
+57
+
 import java.util.*;
 public class numbersystem{
     public static void main(String args[]){
