@@ -7,7 +7,10 @@
 | Sr No. | Question Name | File Name | Pattern Type |
 |-----------|-----------|---------|---------------|
 | 1.| Decimal to Any Base| [Decimal-to-anybase.java](https://github.com/vyash5075/Java-Programming/blob/NumberSystem/Decimal-to-anybase.java) |  |
-                        
+| 2.| Any Base to Decimal| [Anybase-to-decimal.java](https://github.com/vyash5075/Java-Programming/blob/NumberSystem/Anybase-to-decimal.java) |  |
+
+ 
+ 
  ## Contributors ⚡
 <table>
   <tr>
