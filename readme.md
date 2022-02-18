@@ -20,7 +20,12 @@
 | Sr No. | Question Name | File Name | Pattern Type |
 |-----------|-----------|---------|---------------|
 | 1.| logEndpoint  | No | * <br>* *<br> * * *<br>   * * * *<br> * * * * * |
-    
+
+## Resources
+ 
+| [smart programming](https://www.youtube.com/watch?v=zL74GgFsB0E&list=PLlhM4lkb2sEgQ2nI2bsrKx5qIOAb7S7sc&index=7)| 
+|-----------|
+
  ## Contributors ⚡
 <table>
   <tr>
