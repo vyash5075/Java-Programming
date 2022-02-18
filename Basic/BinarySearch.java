@@ -15,6 +15,7 @@ public class binarysearch {
              a[j+1]=temp;
                
             }
+             
         }
        
     }
