@@ -11,8 +11,10 @@
  |3.|Bubble Sort|[Bubblesort.java](https://github.com/vyash5075/Java-Programming/blob/Searching-Sortings/Basic/Bubblesort.java)|| 
  |4.|Selection Sort|[Selection.java](https://github.com/vyash5075/Java-Programming/blob/Searching-Sortings/Basic/SelectionSort.java)|| 
  |5.|Insertion Sort|[InsertionSort.java](https://github.com/vyash5075/Java-Programming/blob/Searching-Sortings/Basic/InsertionSort.java)|| 
- |6.|Bubble Sort|[Bubblesort.java](https://github.com/vyash5075/Java-Programming/blob/Searching-Sortings/Basic/Bubblesort.java)|| 
- |7.|Bubble Sort|[Bubblesort.java](https://github.com/vyash5075/Java-Programming/blob/Searching-Sortings/Basic/Bubblesort.java)|| 
+ |6.|Merge Sort|[Bubblesort.java](https://github.com/vyash5075/Java-Programming/blob/Searching-Sortings/Basic/Bubblesort.java)|⭐ ⭐ | 
+ |7.|Quick Sort|[Bubblesort.java](https://github.com/vyash5075/Java-Programming/blob/Searching-Sortings/Basic/Bubblesort.java)|| 
+ |8.|Heap Sort|[Bubblesort.java](https://github.com/vyash5075/Java-Programming/blob/Searching-Sortings/Basic/Bubblesort.java)|| 
+ |9.|Strings Sort|[Bubblesort.java](https://github.com/vyash5075/Java-Programming/blob/Searching-Sortings/Basic/Bubblesort.java)|| 
 ## Questions Sequenced
  
 | Sr No. | Question Name | File Name | Pattern Type |
