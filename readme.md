@@ -8,9 +8,11 @@
 |-----------|-----------|---------|---------------|
 | 1.| Decimal to Any Base| [Decimal-to-anybase.java](https://github.com/vyash5075/Java-Programming/blob/NumberSystem/Decimal-to-anybase.java) |  |
 | 2.| Any Base to Decimal| [Anybase-to-decimal.java](https://github.com/vyash5075/Java-Programming/blob/NumberSystem/Anybase-to-decimal.java) |  |
-| 2.| Any Base to An Base| [anybase-to-anybase.java](https://github.com/vyash5075/Java-Programming/blob/NumberSystem//anybase-to-anybase.java) |  |
+| 3.| Any Base to An Base| [anybase-to-anybase.java](https://github.com/vyash5075/Java-Programming/blob/NumberSystem//anybase-to-anybase.java) |  |
+| 4.| Addition of 2 no.| [Addition.java](https://github.com/vyash5075/Java-Programming/blob/NumberSystem//Addition.java) | ⭐ |
+| 5.| Subtraction of 2 no.| [Addition.java](https://github.com/vyash5075/Java-Programming/blob/NumberSystem//Addition.java) | ⭐ |
+| 6.| Multiplication of 2 no.| [Addition.java](https://github.com/vyash5075/Java-Programming/blob/NumberSystem//Addition.java) | ⭐ |
 
-https://github.com/vyash5075/Java-Programming/blob/NumberSystem/anybase-to-anybase.java
  
  
  ## Contributors ⚡
