@@ -25,6 +25,7 @@ public class selectionsort {
             arr[small] = arr[i];  
             arr[i] = smallerNumber;  
         }  
+        
     }
     public static void main(String args[])
     {
