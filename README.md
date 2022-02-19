@@ -8,7 +8,7 @@
  
 | Sr No. | Question Name | File Name | Pattern Type |
 |-----------|-----------|---------|---------------|
-| 1.| logEndpoint  | No | * <br>* *<br> * * *<br>   * * * *<br> * * * * * |
+| 1.| logEndpoint  | No | * <br>* *<br> * * *<br>   |
                         
  ## Contributors ⚡
 <table>
