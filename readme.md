@@ -13,7 +13,7 @@
 | 5.| Subtract two Arrays | [Subtract-two-arrays.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/Subtract-two-arrays.java) |  |
 | 6.| Reverse Array | [Reverse.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/Reverse.java) |  |
 | 7.| Rotate Array | [RotateArray.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/RotateArray.java) | ⭐ |
-| 8.| Inverse of Array | [InverseArray.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/InverseArray.java) |replcae element by position in []  |
+| 8.| Inverse of Array | [InverseArray.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/InverseArray.java) |replace element by position in []  |
 | 9.| Subarray | [Subarray.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/Subarray.java) | ⭐ |
 | 10.| Subsets | [subsets.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/subsets.java) | ⭐ |
 | 11.| Ceil-Floor | [ceil-floor.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/ceil-floor.java) | ⭐ |
