@@ -20,6 +20,7 @@
 | 12.| Prime Factorisation | [primefactorization.java](https://github.com/vyash5075/Java-Programming/blob/Basic/primefactorization.java) |⭐   |
 | 13.| pythagorean triplet  | [pythagoreantriplet.java](https://github.com/vyash5075/Java-Programming/blob/Basic/pythagoreantriplet.java) |    |
 | 14.| benjamin Bulbs  | [benjaminbulbs.java](https://github.com/vyash5075/Java-Programming/blob/Basic/benjaminbulbs.java) |  |
+| 15.| Factorial | [Factorial.java](https://github.com/vyash5075/Java-Programming/blob/Basic/Factorial.java) |  |
                          
                         
  ## Contributors ⚡
