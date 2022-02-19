@@ -1,4 +1,4 @@
-# [Pattern Questions🚀](https://leetcode.com/problemset/algorithms/)
+# [Array Questions🚀](https://leetcode.com/problemset/algorithms/)
 
 [![License](https://img.shields.io/badge/license-Apache_2.0-blue.svg)](LICENSE.md) ![Language](https://img.shields.io/badge/language-Java%20%2F%20Data_Structures%2F-blue.svg) ![PRs welcome](https://img.shields.io/badge/PRs%20-welcome-brightgreen.svg) 
 
@@ -6,8 +6,11 @@
  
 | Sr No. | Question Name | File Name | Pattern Type |
 |-----------|-----------|---------|---------------|
-| 1.| logEndpoint  | No | * <br>* *<br> * * *<br>   * * * *<br> * * * * * |
-                        
+| 1.| Span of an Array  | [Span.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/Span.java) |  |
+ 
+| 1.| Span of an Array  | [Span.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/Span.java) |  |
+| 1.| Span of an Array  | [Span.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/Span.java) |  |
+
  ## Contributors ⚡
 <table>
   <tr>
