@@ -22,7 +22,7 @@
 | 14.| benjamin Bulbs  | [benjaminbulbs.java](https://github.com/vyash5075/Java-Programming/blob/Basic/benjaminbulbs.java) |  |
 | 15.| Factorial | [Factorial.java](https://github.com/vyash5075/Java-Programming/blob/Basic/Factorial.java) |  |
 | 16.| Frequency of digit in no. | [FrequencyofDigit-in-no.java](https://github.com/vyash5075/Java-Programming/blob/Basic/FrequencyofDigit-in-no.java) |  |
-| 17.| Factorial | [Factorial.java](https://github.com/vyash5075/Java-Programming/blob/Basic/Factorial.java) |  |
+| 17.| Frequency of digit in array | [Frequency-digit-array.java](https://github.com/vyash5075/Java-Programming/blob/Basic/Frequency-digit-array.java) |  |
 | 18.| Factorial | [Factorial.java](https://github.com/vyash5075/Java-Programming/blob/Basic/Factorial.java) |  |
                         
   
