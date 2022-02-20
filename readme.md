@@ -20,6 +20,13 @@
 | 11.| Ceil-Floor | [ceil-floor.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/ceil-floor.java) | ⭐ |
 | 12.| First-last occurence by binary search | [First-last-occurence.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/First-last-occurence.java) | ⭐ |
 
+## 2D[] Questions
+| Sr No. | Question Name | File Name |   Type |
+|-----------|-----------|---------|---------------|
+| 0.| 3D Array  | [3DArray.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/2D%5B%5D/Basic/3DArray.java) |  |
+
+
+
  ## Resources
  |[Pepcoding 1D Array](https://www.youtube.com/watch?v=tXbgyBCLteM&list=PL-Jc9J83PIiHOV7lm2uSw4ZiVsIRsGS6r)|[Smart Programming](https://www.youtube.com/watch?v=dRrjjotgniA&list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b&index=56)|
  |--|--|
