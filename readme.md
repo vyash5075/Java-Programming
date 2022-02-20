@@ -6,8 +6,11 @@
  
 | Sr No. | Question Name | File Name |   Type |
 |-----------|-----------|---------|---------------|
-| 1.| logEndpoint  | No |  |
-                        
+| 1.| Factorial of a no.  | [Factorial.java](https://github.com/vyash5075/Java-Programming/blob/Recursion/basic/Factorial.java) |  |
+| 2.| Fibonacci series   | [fibonacci.java](https://github.com/vyash5075/Java-Programming/blob/Recursion/basic/fibonacci.java) |  |
+ 
+ 
+ 
  ## Contributors ⚡
 <table>
   <tr>
