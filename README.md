@@ -12,7 +12,7 @@
     
     
  ## Resources ⤵️
- |[Programming tutorials](https://www.youtube.com/channel/UCuix1GOcmoqqWcHh1W1dWAg)| 
+ |[Programming tutorials](https://www.youtube.com/watch?v=X1u1TdFSqwc&list=PLUg9hRlm7gxRHQy87MYI9gMsZSJLkxVXG&index=2)| 
 |-----------|
  ## Contributors ⚡
 <table>
