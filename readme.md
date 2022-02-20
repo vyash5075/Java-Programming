@@ -7,6 +7,7 @@
 | Sr No. | Question Name | File Name |   Type |
 |-----------|-----------|---------|---------------|
 | 1.| Empty Buffer  | [Empty Buffer.java](https://github.com/vyash5075/Java-Programming/blob/Basic/EmptyBuffer.java) |  |
+| 1.| Palindrome no check  | [Palindromecheck.java](https://github.com/vyash5075/Java-Programming/blob/Basic/Palindromecheck.java) |  |
 | 1.| Swap 2 no's without using extra variable  | [swap.java](https://github.com/vyash5075/Java-Programming/blob/Basic/swap.java) |  |
 | 2.| Prime no check  | [primenocheck.java](https://github.com/vyash5075/Java-Programming/blob/Basic/Primenocheck.java) |  |
 | 3.| Leap Year  | [leapyear.java](https://github.com/vyash5075/Java-Programming/blob/Basic/leapyear.java) |  |
