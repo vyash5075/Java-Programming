@@ -9,7 +9,11 @@
 | Sr No. | Question Name | File Name | Pattern Type |
 |-----------|-----------|---------|---------------|
 | 1.| logEndpoint  | No | * <br>* *<br> * * *<br>   |
-                        
+    
+    
+ ## Resources ⤵️
+ |[Programming tutorials](https://www.youtube.com/channel/UCuix1GOcmoqqWcHh1W1dWAg)| 
+|-----------|
  ## Contributors ⚡
 <table>
   <tr>
