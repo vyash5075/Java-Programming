@@ -20,9 +20,9 @@
 | 12.| Print Duplicate Elements in Array | [duplicateElementsinArray.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/duplicateElementsinArray.java) | 🎯 |
 | 7.| Rotate Array | [RotateArray.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/RotateArray.java) | ⭐ |
 | 8.| Inverse of Array | [InverseArray.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/InverseArray.java) |replace element by position in []  |
-| 9.| Subarray | [Subarray.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/Subarray.java) | ⭐ |
-| 10.| Subsets | [subsets.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/subsets.java) | ⭐ |
-| 11.| Ceil-Floor | [ceil-floor.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/ceil-floor.java) | ⭐ |
+| 9.| Ceil-Floor | [ceil-floor.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/ceil-floor.java) | ⭐ |
+| 10.| Subarray | [Subarray.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/Subarray.java) | ⭐ |
+| 11.| Subsets | [subsets.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/subsets.java) | ⭐ |
 | 12.| First-last occurence by binary search | [First-last-occurence.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/First-last-occurence.java) | ⭐ |
 | 13.| LongestconsecutiveSubsequence | [longestconsecutiveSubsequence.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/medium/longestconsecutiveSubsequence.java) | ⭐🌟 |
 
