@@ -19,6 +19,8 @@ XOR table Rules
 |-----------|-----------|---------|---------------|
 | 1.| Find XOR of two number without using XOR operator  | [XOR-withoutXOR-Opearot.java](https://github.com/vyash5075/Java-Programming/blob/Bitwise-operator/XOR-withoutXOR-Opearot.java) |   |
 | 2.| Find Element with single occurence  | [UniqueElement.java](https://github.com/vyash5075/Java-Programming/blob/Bitwise-operator/UniqueElement.java) |   |
+| 3.| Find Mising ELement in sequence   | [MissingElement.java](https://github.com/vyash5075/Java-Programming/blob/Bitwise-operator/MissingElement.java) |   |
+
 
 
                         
