@@ -15,9 +15,9 @@ XOR table Rules
 
 ## Questions Sequenced
  
-| Sr No. | Question Name | File Name |   |
+| Sr No. | Question Name | File Name | Type  |
 |-----------|-----------|---------|---------------|
-| 1.| logEndpoint  | No |   |
+| 1.| Find XOR of two number without using XOR operator  | [XOR-withoutXOR-Opearot.java](https://github.com/vyash5075/Java-Programming/blob/Bitwise-operator/XOR-withoutXOR-Opearot.java) |   |
                         
  ## Contributors ⚡
 <table>
