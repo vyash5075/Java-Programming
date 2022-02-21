@@ -15,7 +15,7 @@
 | 6.| Reverse Array | [Reverse.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/Reverse.java) |  |
 | 7.| second smallest-largest  Element | [k-smallest-largest.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/k-smallest-largest.java) |  |
 | 8.| K-smallest  Element | [Ksmallest.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/Ksmallest.java) |  |
-| 12.| Print Duplicate Elements in Array | [duplicateElementsinArray.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/duplicateElementsinArray.java) |  |
+| 12.| Print Duplicate Elements in Array | [duplicateElementsinArray.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/duplicateElementsinArray.java) | 🎯 |
 | 7.| Rotate Array | [RotateArray.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/RotateArray.java) | ⭐ |
 | 8.| Inverse of Array | [InverseArray.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/InverseArray.java) |replace element by position in []  |
 | 9.| Subarray | [Subarray.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/Subarray.java) | ⭐ |
