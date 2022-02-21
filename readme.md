@@ -25,7 +25,9 @@
 | 11.| Subsets | [subsets.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/subsets.java) | ⭐ |
 | 12.| First-last occurence by binary search | [First-last-occurence.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/First-last-occurence.java) | ⭐ |
 | 13.| LongestconsecutiveSubsequence | [longestconsecutiveSubsequence.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/medium/longestconsecutiveSubsequence.java) | ⭐🌟 |
+| 13.| maximum sum continuous subarray  | [maximumsumsubarray.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/medium/maximumsumsubarray.java) | ⭐🌟 |
 
+ 
 
 
 ## 2D[] Questions
