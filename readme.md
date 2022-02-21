@@ -1,12 +1,23 @@
-# [Pattern Questions🚀](https://leetcode.com/problemset/algorithms/)
+# [Bitwise Operator(XOR) Questions🚀](https://leetcode.com/problemset/algorithms/)
 
 [![License](https://img.shields.io/badge/license-Apache_2.0-blue.svg)](LICENSE.md) ![Language](https://img.shields.io/badge/language-Java%20%2F%20Data_Structures%2F-blue.svg) ![PRs welcome](https://img.shields.io/badge/PRs%20-welcome-brightgreen.svg) 
 
+### XOR concept
+Follows commutative and associative properties.
+XOR table Rules
+
+|0|0|:arrow_right:|0|
+|--|--|--|--|
+|0|1|:arrow_right:|1|
+|1|0|:arrow_right:|1|
+|1|1|:arrow_right:|0|
+ 
+
 ## Questions Sequenced
  
-| Sr No. | Question Name | File Name | Pattern Type |
+| Sr No. | Question Name | File Name |   |
 |-----------|-----------|---------|---------------|
-| 1.| logEndpoint  | No | * <br>* *<br> * * *<br>   * * * *<br> * * * * * |
+| 1.| logEndpoint  | No |   |
                         
  ## Contributors ⚡
 <table>
