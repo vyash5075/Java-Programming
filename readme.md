@@ -8,6 +8,7 @@
 |-----------|-----------|---------|---------------|
 | 0.| Jagged Array  | [JaggedArray.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/JaggedArray.java) |  |
 | 1.| Frequency of ELemnts  | [Frequency.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/Frequency.java) |   | 
+| 2.| Common Elements btw 2 Arrays | [CommonELements.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/CommonELements.java) |   | 
 | 1.| Span of an Array  | [Span.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/Span.java) |Difference of max and min elemts in[]  | 
 | 2.| Find Element in Array  | [findElement.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/findElement.java) |  |
 | 3.| Display bargraph of Array | [BarGraph.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/BarGraph.java) |  |
