@@ -7,6 +7,7 @@
 | Sr No. | Question Name | File Name |   Type |
 |-----------|-----------|---------|---------------|
 | 0.| Jagged Array  | [JaggedArray.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/JaggedArray.java) |  |
+| 0.| Array to  ArrayList  | [Array-to-ArrayList.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/Array-to-ArrayList.java) |  |
 | 1.| Frequency of ELemnts  | [Frequency.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/Frequency.java) |   | 
 | 2.| Common Elements btw 2 Arrays | [CommonELements.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/CommonELements.java) |   | 
 | 1.| Span of an Array  | [Span.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/Span.java) |Difference of max and min elemts in[]  | 
