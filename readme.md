@@ -14,6 +14,7 @@
 | 3.| Display bargraph of Array | [BarGraph.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/BarGraph.java) |  |
 | 4.|Sum of Two Arrays | [SumofTwoArrays.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/SumofTwoArrays.java) |  |
 | 5.| Subtract two Arrays | [Subtract-two-arrays.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/Subtract-two-arrays.java) |  |
+| 6.| Remove Element | [removeelement.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/removeelement.java) |  |
 | 6.| Reverse Array | [Reverse.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/Reverse.java) |  |
 | 7.| second smallest-largest  Element | [k-smallest-largest.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/k-smallest-largest.java) |  |
 | 8.| K-smallest  Element | [Ksmallest.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/Ksmallest.java) |  |
