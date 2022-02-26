@@ -26,3 +26,24 @@ public class removeduplicates{
         }
     }
 }
+
+
+//unsorted array
+
+import java.util.*;
+public class removeelement{
+    public static void main(String args[]){
+        int arr[]={1,2,2,3,4,5,5};
+        int temp[]=new int[arr.length];
+        int j=0;
+        HashSet<Integer>hs=new HashSet<Integer>();
+        for(int i=0;i<arr.length;i++){
+         hs.add(arr[i]);   
+        }
+        
+      
+       for(int no:hs){
+           System.out.print(no+",");
+       }
+    }
+}
