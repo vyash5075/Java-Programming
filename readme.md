@@ -11,6 +11,7 @@
 | 2.| Common Elements btw 2 Arrays | [CommonELements.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/CommonELements.java) |   | 
 | 1.| Span of an Array  | [Span.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/Span.java) |Difference of max and min elemts in[]  | 
 | 2.| Find Element in Array  | [findElement.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/findElement.java) |  |
+| 3.| Merge two Arrays  | [mergeTwoArrays.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/mergeTwoArrays.java) |  |
 | 3.| Display bargraph of Array | [BarGraph.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/BarGraph.java) |  |
 | 4.|Sum of Two Arrays | [SumofTwoArrays.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/SumofTwoArrays.java) |  |
 | 5.| Subtract two Arrays | [Subtract-two-arrays.java](https://github.com/vyash5075/Java-Programming/blob/Arrays/Basic/Subtract-two-arrays.java) |  |
