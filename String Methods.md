@@ -30,6 +30,7 @@ MethodsQuestions Sequenced
 | 23.| toCharArray()  |
 | 24.| upperCase()  |
 | 25.| lowerCase()  |
+| 26.| toString()  |
 
 
                         
