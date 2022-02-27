@@ -25,3 +25,40 @@ public class maximumfrequency{
         System.out.println(c);
     }
 }
+
+
+case2:  By Hashmap
+
+import java.util.*;
+public class maximumfrequency{
+    public static void main(String args[]){
+        String s="Hi I em ymashm Verema";
+        s=s.replaceAll("\\s","");
+        int arr[]=new int[256];
+        char c=' ';
+        int max=-1;
+        HashMap<Character,Integer>hm=new HashMap<Character,Integer>();
+        for(int i=0;i<s.length();i++){
+            char ch=s.charAt(i);
+            if(hm.containsKey(ch)){
+                hm.put(ch,hm.get(ch)+1);
+            }
+            else{
+                hm.put(ch,1);
+            }
+        }
+        
+        
+          for(Map.Entry<Character,Integer> m:hm.entrySet()){ 
+              int cm=m.getValue();
+              if(max< cm){
+                  max=cm;
+                  c=m.getKey();
+              }
+             
+               
+              
+  }  
+        System.out.println(c);
+    }
+}
