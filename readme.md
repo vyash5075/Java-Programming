@@ -11,6 +11,7 @@
 | Sr No. | Question Name | File Name |   Type |
 |-----------|-----------|---------|---------------|
 | 1.| Reverse String  | [Reverse.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/Reverse.java) | |
+| 2.| Check  String is palindromic   | [Reverse.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/Reverse.java) | |
                         
  ## Contributors ⚡
 <table>
