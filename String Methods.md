@@ -20,6 +20,12 @@ MethodsQuestions Sequenced
 | 13.| replace()  | 
 | 14.| replaceFirst()  |
 | 15.| replaceAll()  |
+| 16.| indexOf()  |
+| 17.| lastIndexOf()  |
+| 18.| contains()  |
+| 19.| charAt()  |
+| 20.| endsWith()  |
+| 21.| startsWith()  |
 
 
                         
