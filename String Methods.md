@@ -26,6 +26,10 @@ MethodsQuestions Sequenced
 | 19.| charAt()  |
 | 20.| endsWith()  |
 | 21.| startsWith()  |
+| 22.| String.valueOf(60)  |
+| 23.| toCharArray()  |
+| 24.| upperCase()  |
+| 25.| lowerCase()  |
 
 
                         
