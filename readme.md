@@ -18,6 +18,7 @@
 | 6.|Anagram  | [anagram.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/anagram.java) | |
 | 7.|Balanced Parenthesis  | [balancedParenthesis.java](https://github.com/vyash5075/Java-Programming/blob/Stacks/balancedParenthesis.java) | |
 | 8.|Add Two Strings  | [AddTwoStrings.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/AddTwoStrings.java) | |
+| 9.|Compare Two Strings  | [Compare2Strings.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/Compare2Strings.java) | |
 
 
 
