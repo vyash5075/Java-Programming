@@ -14,6 +14,8 @@
 | 2.| Check  String is palindromic   | [Reverse.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/Reverse.java) | |
 | 3.|Maximum Frequency Element  | [maximumfrequency.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/maximumfrequency.java) | |
 | 4.|Anagram  | [anagram.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/anagram.java) | |
+| 5.|Balanced Parenthesis  | [balancedParenthesis.java](https://github.com/vyash5075/Java-Programming/blob/Stacks/balancedParenthesis.java) | |
+
 
  ## Resources 📝
  |[Smart Programming](https://www.youtube.com/watch?v=iiA6Bag8UUE&list=PLlhM4lkb2sEh8AARH5oEivYOrMgaVsPFb&index=17)|[LearnWithKS](https://www.youtube.com/watch?v=0g80Medlldc&list=PLF9tovyahfL2pF-DWH7WQyuN_Cmz64DTT&index=1)|
