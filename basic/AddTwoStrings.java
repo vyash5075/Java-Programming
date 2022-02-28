@@ -11,7 +11,7 @@ public class balancedString{
    String s2="999";
    int a=Integer.parseInt(s);
     int a1=Integer.parseInt(s2);
-   System.out.println(a+a1);
+  System.out.println(String.valueOf(a+a1));
  
     
 }}
