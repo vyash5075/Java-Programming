@@ -11,11 +11,14 @@
 | Sr No. | Question Name | File Name |   Type |
 |-----------|-----------|---------|---------------|
 | 1.| Reverse String  | [Reverse.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/Reverse.java) | |
-| 2.| Check  String is palindromic   | [Reverse.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/Reverse.java) | |
-| 3.|Maximum Frequency Element  | [maximumfrequency.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/maximumfrequency.java) | |
-| 4.|Anagram  | [anagram.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/anagram.java) | |
-| 5.|Balanced Parenthesis  | [balancedParenthesis.java](https://github.com/vyash5075/Java-Programming/blob/Stacks/balancedParenthesis.java) | |
-| 6.|Add Two Strings  | [AddTwoStrings.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/AddTwoStrings.java) | |
+| 2.| Reverse words in String  | [reverseWordsInString.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/reverseWordsInString.java) | |
+| 3.| Reverse String with words  | [reverseWordsInString.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/reverseWordsInString.java) | |
+| 4.| Check  String is palindromic   | [Reverse.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/Reverse.java) | |
+| 5.|Maximum Frequency Element  | [maximumfrequency.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/maximumfrequency.java) | |
+| 6.|Anagram  | [anagram.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/anagram.java) | |
+| 7.|Balanced Parenthesis  | [balancedParenthesis.java](https://github.com/vyash5075/Java-Programming/blob/Stacks/balancedParenthesis.java) | |
+| 8.|Add Two Strings  | [AddTwoStrings.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/AddTwoStrings.java) | |
+
 
 
  ## Resources 📝
