@@ -1,5 +1,5 @@
 import java.util.*;
-public class isrotatedVersion{
+public class SortElementsByFrequency_desc{
     public static HashMap<Character, Integer> sortByValue(HashMap<Character, Integer> hm)
     {
         // Create a list from elements of HashMap
