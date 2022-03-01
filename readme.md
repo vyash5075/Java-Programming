@@ -16,15 +16,16 @@
 | 4.| Check  String is palindromic   | [Reverse.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/Reverse.java) | |
 | 5.|Maximum Frequency Element  | [maximumfrequency.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/maximumfrequency.java) | |
 | 6.|Anagram  | [anagram.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/anagram.java) | |
-| 7.|Balanced Parenthesis  | [balancedParenthesis.java](https://github.com/vyash5075/Java-Programming/blob/Stacks/balancedParenthesis.java) | |
-| 8.|Add Two Strings  | [AddTwoStrings.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/AddTwoStrings.java) | |
-| 9.|Compare Two Strings  | [Compare2Strings.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/Compare2Strings.java) | |
-| 10.|First Non Repeated Element  | [firstNonRepeatedElement.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/firstNonRepeatedElement.java) | |
-| 11.|Check s2 is rotated version of s1  | [isRotatedString.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/isRotatedString.java) | |
-| 12.|Count words in string with spaces  | [wordcountinString.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/wordcountinString.java) | |
-| 13.|SubString in Java  | [substring.java](https://github.com/vyash5075/Java-Programming/blob/Strings/medium/substring.java) |⭐ |
-| 14.|Sort Elements by freq. desc  | [SortElementsByFrequency_desc.java](https://github.com/vyash5075/Java-Programming/blob/Strings/medium/SortElementsByFrequency_desc.java) |⭐ |
-| 15.|Longest Substring contains non repeating characters  | [longestSubStringnonrepeating.java](https://github.com/vyash5075/Java-Programming/blob/Strings/medium/longestSubStringnonrepeating.java) |⭐ |
+| 7.|panagram  | [panagram.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/panagram.java) | |
+| 8.|Balanced Parenthesis  | [balancedParenthesis.java](https://github.com/vyash5075/Java-Programming/blob/Stacks/balancedParenthesis.java) | |
+| 9.|Add Two Strings  | [AddTwoStrings.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/AddTwoStrings.java) | |
+| 10.|Compare Two Strings  | [Compare2Strings.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/Compare2Strings.java) | |
+| 11.|First Non Repeated Element  | [firstNonRepeatedElement.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/firstNonRepeatedElement.java) | |
+| 12.|Check s2 is rotated version of s1  | [isRotatedString.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/isRotatedString.java) | |
+| 13.|Count words in string with spaces  | [wordcountinString.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/wordcountinString.java) | |
+| 14.|SubString in Java  | [substring.java](https://github.com/vyash5075/Java-Programming/blob/Strings/medium/substring.java) |⭐ |
+| 15.|Sort Elements by freq. desc  | [SortElementsByFrequency_desc.java](https://github.com/vyash5075/Java-Programming/blob/Strings/medium/SortElementsByFrequency_desc.java) |⭐ |
+| 16.|Longest Substring contains non repeating characters  | [longestSubStringnonrepeating.java](https://github.com/vyash5075/Java-Programming/blob/Strings/medium/longestSubStringnonrepeating.java) |⭐ |
 
 
 
