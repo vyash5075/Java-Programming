@@ -16,7 +16,8 @@
  |8.|Heap Sort|[Heapsort.java](https://github.com/vyash5075/Java-Programming/blob/Searching-Sortings/Basic/HeapSort.java)|⭐ ⭐| 
  |9.|Strings Sort|[Bubblesort.java](https://github.com/vyash5075/Java-Programming/blob/Searching-Sortings/Basic/Bubblesort.java)|| 
  |10.|BubbleString Sort|[BubbleStringsort.java](https://github.com/vyash5075/Java-Programming/blob/Searching-Sortings/Basic/BubbleStringsort.java)||
- |11.|Kadane's Algorithm|[KadaneAlgo.java]( https://github.com/vyash5075/Java-Programming/blob/Searching-Sortings-Algorithms/KadaneAlgo.java)||
+ |11.|HashMap Sort|[sortHashMap.java]( https://github.com/vyash5075/Java-Programming/blob/Searching-Sortings-Algorithms/Basic/sortHashMap.java)|⭐ ⭐|
+ |12.|Kadane's Algorithm|[KadaneAlgo.java]( https://github.com/vyash5075/Java-Programming/blob/Searching-Sortings-Algorithms/KadaneAlgo.java)||
  
 
 ## Questions Sequenced
