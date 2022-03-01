@@ -24,6 +24,8 @@
 | 12.|Count words in string with spaces  | [wordcountinString.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/wordcountinString.java) | |
 | 13.|SubString in Java  | [substring.java](https://github.com/vyash5075/Java-Programming/blob/Strings/medium/substring.java) |⭐ |
 | 14.|Sort Elements by freq. desc  | [SortElementsByFrequency_desc.java](https://github.com/vyash5075/Java-Programming/blob/Strings/medium/SortElementsByFrequency_desc.java) |⭐ |
+| 15.|Longest Substring contains non repeating characters  | [longestSubStringnonrepeating.java](https://github.com/vyash5075/Java-Programming/blob/Strings/medium/longestSubStringnonrepeating.java) |⭐ |
+
 
 
 
