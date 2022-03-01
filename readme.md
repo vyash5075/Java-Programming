@@ -20,8 +20,9 @@
 | 8.|Add Two Strings  | [AddTwoStrings.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/AddTwoStrings.java) | |
 | 9.|Compare Two Strings  | [Compare2Strings.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/Compare2Strings.java) | |
 | 10.|First Non Repeated Element  | [firstNonRepeatedElement.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/firstNonRepeatedElement.java) | |
-| 11.|Count words in string with spaces  | [wordcountinString.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/wordcountinString.java) | |
-| 12.|SubString in Java  | [substring.java](https://github.com/vyash5075/Java-Programming/blob/Strings/medium/substring.java) |⭐ |
+| 11.|Check s2 is rotated version of s1  | [isRotatedString.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/isRotatedString.java) | |
+| 12.|Count words in string with spaces  | [wordcountinString.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/wordcountinString.java) | |
+| 13.|SubString in Java  | [substring.java](https://github.com/vyash5075/Java-Programming/blob/Strings/medium/substring.java) |⭐ |
 
 
 
