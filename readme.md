@@ -26,9 +26,9 @@
 | 13.|Count words in string with spaces  | [wordcountinString.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/wordcountinString.java) | |
 | 14.|SubString in Java  | [substring.java](https://github.com/vyash5075/Java-Programming/blob/Strings/medium/substring.java) |⭐ |
 | 15.|Sort Elements by freq. desc  | [SortElementsByFrequency_desc.java](https://github.com/vyash5075/Java-Programming/blob/Strings/medium/SortElementsByFrequency_desc.java) |⭐ |
-| 16.|Longest Substring contains non repeating characters  | [longestSubStringnonrepeating.java](https://github.com/vyash5075/Java-Programming/blob/Strings/medium/longestSubStringnonrepeating.java) |⭐ |
-| 17.|length_longestsubstring_with_distinct_k_characters  | [length_longestsubstring_with_distinct_k_characters.java](https://github.com/vyash5075/Java-Programming/blob/Strings/medium/length_longestsubstring_with_distinct_k_characters.java) |⭐ |
-| 17.|Longest substring with non repeating characters  | [longestsubstringwithnonrepeatingcharacters.java](https://github.com/vyash5075/Java-Programming/blob/Strings/medium/longestsubstringwithnonrepeatingcharacters.java) |⭐⭐ |
+| 16.|Long. Substr. contains non repeating char | [longestSubStringnonrepeating.java](https://github.com/vyash5075/Java-Programming/blob/Strings/medium/longestSubStringnonrepeating.java) |⭐ |
+| 17.|long. substr_with_distinct_k_char | [length_longestsubstring_with_distinct_k_characters.java](https://github.com/vyash5075/Java-Programming/blob/Strings/medium/length_longestsubstring_with_distinct_k_characters.java) |⭐ |
+| 17.|Long. substr with non repeating char | [longestsubstringwithnonrepeatingcharacters.java](https://github.com/vyash5075/Java-Programming/blob/Strings/medium/longestsubstringwithnonrepeatingcharacters.java) |⭐⭐ |
 
 
 
