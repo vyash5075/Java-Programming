@@ -14,6 +14,7 @@
 | 2.| Reverse words in String  | [reverseWordsInString.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/reverseWordsInString.java) | |
 | 3.| Reverse String with words  | [ReverseStringwithWords.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/ReverseStringwithWords.java) | |
 | 4.| Check  String is palindromic   | [Reverse.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/Reverse.java) | |
+| 5.|reversevowels in a  String   | [reversevowels.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/reversevowels.java) | |
 | 5.|Maximum Frequency Element  | [maximumfrequency.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/maximumfrequency.java) | |
 | 6.|Anagram  | [anagram.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/anagram.java) | |
 | 7.|panagram  | [panagram.java](https://github.com/vyash5075/Java-Programming/blob/Strings/basic/panagram.java) | |
