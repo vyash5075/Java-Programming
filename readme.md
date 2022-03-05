@@ -29,7 +29,7 @@
 | 16.|Long. Substr. contains non repeating char | [longestSubStringnonrepeating.java](https://github.com/vyash5075/Java-Programming/blob/Strings/medium/longestSubStringnonrepeating.java) |⭐ |
 | 17.|long. substr_with_distinct_k_char | [length_longestsubstring_with_distinct_k_characters.java](https://github.com/vyash5075/Java-Programming/blob/Strings/medium/length_longestsubstring_with_distinct_k_characters.java) |⭐ |
 | 17.|Long. substr with non repeating char | [longestsubstringwithnonrepeatingcharacters.java](https://github.com/vyash5075/Java-Programming/blob/Strings/medium/longestsubstringwithnonrepeatingcharacters.java) |⭐⭐ |
-
+| 17.|check s2 present in s1 as anagram | [anagram_present.java](https://github.com/vyash5075/Java-Programming/blob/Strings/medium/anagram_present.java) |⭐⭐ |
 
 
 
