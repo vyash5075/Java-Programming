@@ -33,6 +33,8 @@
 | 17.|print all anagrams | [Allanagrams.java](https://github.com/vyash5075/Java-Programming/blob/Strings/medium/Allanagrams.java) |⭐ |
 | 17.|min. substr contain pattern str words | [mini_substring_contains_pattern.java](https://github.com/vyash5075/Java-Programming/blob/Strings/medium/mini_substring_contains_pattern.java) |⭐⭐ |
 | 17.|print all substr contain pattern str words | [print_patterncontains.java](https://github.com/vyash5075/Java-Programming/blob/Strings/medium/print_patterncontains.java) |⭐ |
+| 17.|long. substr have same char aftr k changes | [max_frequency_after_k_changes.java](https://github.com/vyash5075/Java-Programming/blob/Strings/medium/long._substr_after_k%20changes_have_same_char.java) |⭐⭐ |
+
  
 
  ## Resources 📝
