@@ -31,8 +31,8 @@
 | 17.|Long. substr with non repeating char | [longestsubstringwithnonrepeatingcharacters.java](https://github.com/vyash5075/Java-Programming/blob/Strings/medium/longestsubstringwithnonrepeatingcharacters.java) |⭐⭐ |
 | 17.|check s2 present in s1 as anagram | [anagram_present.java](https://github.com/vyash5075/Java-Programming/blob/Strings/medium/anagram_present.java) |⭐⭐ |
 | 17.|print all anagrams | [Allanagrams.java](https://github.com/vyash5075/Java-Programming/blob/Strings/medium/Allanagrams.java) |⭐ |
-| 17.|min. substring contain pattern str | [mini_substring_contains_pattern.java](https://github.com/vyash5075/Java-Programming/blob/Strings/medium/mini_substring_contains_pattern.java) |⭐⭐ |
-
+| 17.|min. substr contain pattern str words | [mini_substring_contains_pattern.java](https://github.com/vyash5075/Java-Programming/blob/Strings/medium/mini_substring_contains_pattern.java) |⭐⭐ |
+| 17.|print all substr contain pattern str words | [print_patterncontains.java](https://github.com/vyash5075/Java-Programming/blob/Strings/medium/print_patterncontains.java) |⭐ |
  
 
  ## Resources 📝
