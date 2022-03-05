@@ -5,7 +5,10 @@ s=bccbababd
 babab
 5
 
-
+##Sliding window concept
+##time complexity O(1)
+##space complexity O(1)
+    
 import java.util.*;
 public class longestsubstringwithdistinctkcharacters{
     public static void main(String args[]){
